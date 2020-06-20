@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React JS can be used as Server-side with the help of SSR. So the main trick to check whether React is rendered from from server side or client side is:
+a. Open source code - Search for <div id="root"> <br/>
+   If it is empty div - It is client side React<br/><br/>
+b. If there will be other HTML inside div - Server Side Rendering. Mainly this will be the component of src/App.js
 
-## Available Scripts
+## Installation
 
 In the project directory, you can run:
 
