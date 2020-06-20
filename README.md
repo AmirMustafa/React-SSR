@@ -21,7 +21,7 @@ ReactDOM.hydrate(<App />, document.getElementById('root'));
 ```
 
 
-#### `Install Expree with below command `
+#### `Install Express with below command `
 
 
 ```javascript
