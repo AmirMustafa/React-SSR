@@ -1,4 +1,4 @@
-# React Server Side (SSR)
+# React JS Server Side
 
 React JS can be used as Server-side with the help of SSR. So the main trick to check whether React is rendered from from server side or client side is: <br/>
 a. Open source code - Search for ```<div id="root">``` <br/>
